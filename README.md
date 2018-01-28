@@ -1,1 +1,3 @@
-This is a README
+Diversify My Feed analyzes a user's Twitter followers, searching for followed media outlets. Once the Twitter bot finds what media accounts a user follows, it plugs those sources into a weighted graph, comparing it with almost other 40 American-based news outlets to find sources that are very similar, somewhat similar, and not at all similar. Then we offer users recommendations and connect them back to these new news options, in the hopes of diversifying their feed and getting them diversify their feeds.
+
+Copyright (c) 2018 Meredith Van De Velde, Larissa Moreira, Eliana Grosof, Linnea Moritz, Mara Steiu, and Emma Stiefel
